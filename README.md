@@ -84,7 +84,7 @@ Nos aparacera el codigo de la function.
 
 ![14](https://user-images.githubusercontent.com/99112892/174918902-cbc0140f-5f85-47eb-8ee6-cdce3063f4df.png)
 
-Paso 7
+## Paso 7
 Tenemos nuestra funtion implementada y corriendo pero necesitamos ver que se ejeccute ante una petición.
 - Como se pide en el mensaje, necesitamos agregar un nombre en la URL para obtener una respuesta personalizada, por lo que nos dirigimos a esa sección y procedemos a agregar: "&&name=Rodolfo".
 
